@@ -1,2 +1,6 @@
 challenge 1 print hello world
+console.log('helloWorld');
 challenge 2 create a for loop.
+for(let i = 0; i < 5; i++) {
+  console.log(i);
+};
